@@ -1,4 +1,4 @@
-# DQY地球- taojan/us = trojan, us.swiftfalcon.app, 8444, password=shenmegui
+地球- taojan/us = trojan, us.swiftfalcon.app, 8444, password=shenmegui
 地球- trojan/us3 = trojan, us3.swiftfalcon.app, 8444, password=shenmegui, skip-cert-verify=true
 地球- trojan/hk4 = trojan, hk1000.swiftfalcon.app, 8444, password=shenmegui
 地球- trojan/jp6 = trojan, jp666.swiftfalcon.app, 8444, password=shenmegui, skip-cert-verify=true
